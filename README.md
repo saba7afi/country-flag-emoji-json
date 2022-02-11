@@ -82,3 +82,7 @@ $ npm run build
 > Copyright © 1991-2018 Unicode, Inc. All rights reserved.
 >
 > By using this package you agree to the [Unicode Terms of Use](https://www.unicode.org/copyright.html).
+
+## QR Code Scanner
+
+* [QR Code Scanner Online](https://qrcodescan.online/): Scan a QR code Online.
